@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+@font-face {
+    /* Font-family que vamos a crear para llamarlo */
+    font-family: 'Heebo', sans-serif;
+    /* source(src) que enlace el archivo con la tipografia descargada */
+    src: url('BigShouldersStencilDisplay-Black.ttf');
+}
+table, th, td {
+            border: 1px solid royalblue;
+            border-collapse: collapse;
+            width:300px;
+            height: 100px;
+            background: rosybrown;
+        }
+.h1{
+    font-family: 'Heebo', sans-serif;;
+}
