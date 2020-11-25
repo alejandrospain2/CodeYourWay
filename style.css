@@ -1,4 +1,9 @@
 
+@font-face {
+    font-family: 'Aldrich';
+    src: url('Aldrich-Regular.ttf');
+}
+
 .general {
     text-align: center;
     background-color: wheat;
@@ -6,7 +11,8 @@
 }
 
 .title {
-    font-size: 50px;
+    font-family: 'Aldrich', sans-serif;
+    font-size: 60px;
     color: rgb(10, 26, 48);
 }
 
